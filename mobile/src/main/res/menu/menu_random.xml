@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".randomActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/action_push_image" android:title="@string/action_push_image"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
